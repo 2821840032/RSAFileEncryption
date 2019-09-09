@@ -3,3 +3,5 @@
 ################################################################################
 
 /.vs/FileRSAProject/v16/Server/sqlite3
+/FileRSAFromProject/bin/Debug
+/FileRSAFromProject/obj/Debug

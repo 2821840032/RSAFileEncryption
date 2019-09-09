@@ -1,0 +1,5 @@
+C:\Users\Anang\Desktop\FileRSA\FileRSAProject\RSACryption\bin\Debug\RSACryption.dll
+C:\Users\Anang\Desktop\FileRSA\FileRSAProject\RSACryption\bin\Debug\RSACryption.pdb
+C:\Users\Anang\Desktop\FileRSA\FileRSAProject\RSACryption\obj\Debug\RSACryption.csprojAssemblyReference.cache
+C:\Users\Anang\Desktop\FileRSA\FileRSAProject\RSACryption\obj\Debug\RSACryption.dll
+C:\Users\Anang\Desktop\FileRSA\FileRSAProject\RSACryption\obj\Debug\RSACryption.pdb
